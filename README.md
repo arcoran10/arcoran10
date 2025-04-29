@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hola 👋
 
 
+Bienvenidos a mi perfil de git. Donde podremos compartir proyectos.
 
 
-Here are some ideas to get you started:
+## Lenguajes ...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- HTML / CSS / JavaScript
+- Readt / Node.js
+- Python / Django
+- PostgreSQL / MongoDB
+- Docker / Git / BitHub
+
+## Cómo Contactar
+
+- email@
+- https://*****
 
